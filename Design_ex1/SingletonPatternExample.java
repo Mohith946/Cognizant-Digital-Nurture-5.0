@@ -1,4 +1,4 @@
-package Exercise1;
+package Design_ex1;
 
 class Logger {
     private static Logger instance;

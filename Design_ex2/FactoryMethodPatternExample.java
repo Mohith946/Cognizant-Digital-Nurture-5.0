@@ -1,4 +1,4 @@
-package Exercise2;
+package Design_ex2;
 
 interface Document {
     void open();
