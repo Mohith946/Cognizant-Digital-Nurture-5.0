@@ -5,6 +5,10 @@
     <groupId>com.example</groupId>
     <artifactId>JUnitExample</artifactId>
     <version>1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>JUnit-Exercise3</module>
+    </modules>
 
     <dependencies>
 
